@@ -13,7 +13,7 @@
     "enquirer": "2.3.6",
     "git-url-parse": "13.1.0",
     "glob": "8.0.3",
-    "word-wrap": "1.2.4",
+    "word-wrap": "1.2.5",
     "add-stream": "^1.0.0",
     "conventional-changelog-writer": "^5.0.0",
     "conventional-commits-parser": "^3.2.0",
